@@ -4,6 +4,7 @@ out/
 .idea/
 
 *.exe
+*.dll
 *.so
 *.dylib
 
